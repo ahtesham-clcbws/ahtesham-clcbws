@@ -40,16 +40,6 @@ I am actively involved in teaching and professional training, helping students m
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahtesham-clcbws&show_icons=true&theme=graphite" alt="Ahtesham's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtesham-clcbws&layout=compact&theme=graphite" alt="Top Languages" />
-</p>
-
----
-
 ### ⚡ Professional Philosophy
 > "Code should be as scalable as the business it supports. Whether I'm designing a multi-tenant ERP or mentoring a student, my goal is to simplify the complex and build tools that stand the test of time."
 
