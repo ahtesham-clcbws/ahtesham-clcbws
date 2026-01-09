@@ -43,9 +43,9 @@ I am actively involved in teaching and professional training, helping students m
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahtesham-clcbws&show_icons=true&theme=dark&hide_border=true" alt="Ahtesham's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahtesham-clcbws&show_icons=true&theme=graphite" alt="Ahtesham's Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtesham-clcbws&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahtesham-clcbws&layout=compact&theme=graphite" alt="Top Languages" />
 </p>
 
 ---
