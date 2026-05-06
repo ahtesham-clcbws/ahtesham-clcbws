@@ -69,7 +69,7 @@ I am available for high-level technical engagement in the following areas:
 I am open to discussing new projects, architectural consultations, and teaching opportunities.
 
 * **WhatsApp / Mobile:** [+91 9810763314](https://wa.me/919810763314)
-* **Email:** [Your Professional Email Here]
+* **Email:** [ahtesham2000@gmail.com]
 * **Availability:** Open for freelance, remote contracts, and collaborative ventures.
 
 ---
