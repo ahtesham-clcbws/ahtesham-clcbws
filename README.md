@@ -1,8 +1,11 @@
 # Hi there, I'm Ahtesham Abdul Aziz 👋 (@ahtesham-clcbws)
 
-### 🏛️ Systems Architect | Full-Stack Logic Engineer | Technical Mentor
+### 🏛️ Systems Architect | Logic-Driven Product Engineer | Technical Mentor
 
-I am a senior-level software architect specializing in the design and implementation of complex, high-logic digital ecosystems. With a decade of experience across web and mobile platforms, I focus on transforming intricate business requirements—such as multi-tenant infrastructures and automated scheduling systems—into scalable, high-performance codebases.
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahtesham--dev-000000?style=for-the-badge&logo=vercel)](https://ahtesham-dev.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ahtesham)
+
+Senior software architect specializing in the design and execution of complex, multi-tenant digital ecosystems, automated constraint-based engines, and high-performance full-stack architectures.
 
 ---
 
